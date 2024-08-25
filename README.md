@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Pranay9392
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Pranay9392/Pranay9392 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m [Pranay Aletti](https://www.linkedin.com/in/pranay-aletti/) (@Pranay9392)
+- 👀 I’m interested in Web Development, Data Science, Machine Learning, and Cloud Computing.
+- 🌱 I’m currently learning React Native for building mobile applications and exploring advanced AWS services.
+- 💞️ I’m looking to collaborate on projects related to e-commerce, AI-driven applications, and educational platforms.
+- 📫 How to reach me: [Email](mailto:aletipranaypranay@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pranay-aletti/) | [GitHub](https://github.com/Pranay9392)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I co-founded [Global Intern](https://globalintern.live), a platform empowering students to upskill and showcase their projects online.
