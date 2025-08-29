@@ -1,44 +1,42 @@
-# 👋 Hi, I'm Aletti Pranay  
+# 👋 Hi, I'm Aletti Pranay
 
-💻 Passionate about building **full-stack web applications** with **React, Django, and Cloud Technologies**.  
-🎓 A student constantly learning, experimenting, and applying modern tech to real-world projects.  
+🚀 Passionate about building platforms that connect people, technology, and opportunities.  
+Currently exploring **AI, Cloud, and Hyperlocal Marketplaces** to solve real-world problems.
 
 ---
 
-## 📚 About Me
-- 🌱 Currently focused on **React, Django, and AWS Cloud**  
-- 🔭 Building projects in **Web Development & Cloud Deployment**  
-- 🎯 Interested in **Full-Stack Development, Data Science, and Cloud Solutions**  
-- 🤝 Open to internships, collaborations, and open-source contributions  
+## 🌟 About Me
+- 💼 Co-Founder & HR Manager at **Global Intern** – a marketplace for students to upskill and sell their projects online.  
+- 🎓 President of the **Data Science Club, SR University**.  
+- 🔭 Currently working on:
+  - **LocalConnect** → A hyperlocal B2B & B2C marketplace integrating e-commerce, transport, and social media.  
+  - **Jay’s Retro** → A ReactJS-based premium footwear e-commerce site.  
+- ☁️ Skilled in **AWS Cloud Services** (S3, Lambda, API Gateway, DynamoDB).  
+- 📊 Experienced in **Data Science, RapidMiner, and AI-driven insights**.  
+- 🌱 Always learning and sharing knowledge in **Cloud, AI, and Agri-Tech innovations**.  
 
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** ReactJS, HTML, CSS, JavaScript, Bootstrap  
-**Backend:** Django, Node.js (basics), REST APIs  
-**Database:** MySQL, PostgreSQL, MongoDB  
-**Cloud:** AWS (S3, Lambda, API Gateway, DynamoDB, EC2)  
-**Other Tools:** Git, GitHub, VS Code, Docker  
-
-## 📊 GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranayAletti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayAletti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em"/>
-</p>
-
-
-## 🚀 Projects
-- 🌐 **Full-Stack Web Apps** using **React + Django**  
-- ☁️ **Cloud-based Applications** deployed on AWS  
-- 📊 **Data-Driven Dashboards** with Python and SQL  
+- **Languages:** Python, C++, JavaScript, SQL  
+- **Frameworks:** ReactJS, React Native, Bootstrap  
+- **Cloud:** AWS (S3, Lambda, API Gateway, DynamoDB)  
+- **Data Science:** RapidMiner, Pandas, NumPy, Machine Learning  
+- **Tools:** Git, GitHub, VS Code  
 
 ---
 
-## 🌍 Connect with Me
+## 📈 GitHub Stats
+![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranayAletti&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranayAletti&layout=compact&theme=radical)
+
+---
+
+## 🌍 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Email: yourname@email.com  
+- 🌐 [Portfolio/Website](#)  
+- ✉️ Email: yourname@email.com  
 
 ---
-
-✨ *“Code. Learn. Build. Repeat.”*  
+✨ *“Building tech that empowers people and communities.”*  
