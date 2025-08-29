@@ -29,6 +29,14 @@
 
 ---
 
+## 📊 GitHub Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PranayAletti&show_icons=true&theme=tokyonight" alt="Pranay's GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayAletti&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
+</p>
+
+
 ## 🚀 Projects
 - 🌐 **Full-Stack Web Apps** using **React + Django**  
 - ☁️ **Cloud-based Applications** deployed on AWS  
