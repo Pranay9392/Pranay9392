@@ -27,9 +27,9 @@ Currently exploring **AI, Cloud, and Hyperlocal Marketplaces** to solve real-wor
 ---
 
 ## 📈 GitHub Stats
-![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranayAletti&show_icons=true&theme=radical)
+![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranay9392&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranayAletti&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay9392&layout=compact&theme=radical)
 
 ---
 
