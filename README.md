@@ -36,8 +36,8 @@
 ---
 
 ## 🌍 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Email: yourname@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pranay-aletti-5074551b0/)  
+- 📧 Email: aletipranaypranay@gmail.com
 
 ---
 
