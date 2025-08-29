@@ -20,20 +20,11 @@
 **Cloud:** AWS (S3, Lambda, API Gateway, DynamoDB, EC2)  
 **Other Tools:** Git, GitHub, VS Code, Docker  
 
----
-
-## 📊 GitHub Activity
-![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranayAletti&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranayAletti&layout=compact&theme=radical)
-
-
----
-
 ## 📊 GitHub Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranayAletti&show_icons=true&theme=tokyonight" alt="Pranay's GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayAletti&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PranayAletti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayAletti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em"/>
 </p>
 
 
