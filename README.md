@@ -23,8 +23,9 @@
 ---
 
 ## 📊 GitHub Activity
-![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranayAletti&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranayAletti&layout=compact&theme=tokyonight)  
+![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranayAletti&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranayAletti&layout=compact&theme=radical)
+
 
 ---
 
