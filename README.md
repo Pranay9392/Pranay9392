@@ -1,47 +1,44 @@
-# 👋 Hi, I'm Pranay Aleti  
+# 👋 Hi, I'm Aletti Pranay  
 
-🚀 Passionate about building **innovative products** at the intersection of **AI, E-commerce, and EdTech**.  
-I love turning ideas into working products and have launched multiple startups/projects in tech.  
+💻 Passionate about building **full-stack web applications** with **React, Django, and Cloud Technologies**.  
+🎓 A student constantly learning, experimenting, and applying modern tech to real-world projects.  
 
 ---
 
-## 💡 About Me
-- 🎓 Computer Science student | Exploring **AI, Cloud, and Web Development**  
-- 🛍️ Founder of **LocalShop** – A decentralized e-commerce platform for local vendors  
-- 🌍 Founder of **Global Intern** – An ed-tech platform where students sell their internship projects  
-- 👟 Built **Jays Retro Footwear** – An online retro footwear store (Nigeria market)  
-- ♻️ Developed **E-Commerce for Waste** – Connecting households with recycling & waste-to-energy industries  
-- 📊 Working on **AI-powered dashboards** for Cleanliness & LiFE practices  
+## 📚 About Me
+- 🌱 Currently focused on **React, Django, and AWS Cloud**  
+- 🔭 Building projects in **Web Development & Cloud Deployment**  
+- 🎯 Interested in **Full-Stack Development, Data Science, and Cloud Solutions**  
+- 🤝 Open to internships, collaborations, and open-source contributions  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python 🐍 | JavaScript ⚡ | SQL 💾  
-- **Frameworks & Tools**: React ⚛️ | Django 🌐 | Node.js 🟩 | Firebase 🔥 | TailwindCSS 🎨  
-- **Cloud & DevOps**: AWS ☁️ | Docker 🐳  
-- **Data & AI**: Machine Learning 🤖 | Data Analysis 📊  
+**Frontend:** ReactJS, HTML, CSS, JavaScript, Bootstrap  
+**Backend:** Django, Node.js (basics), REST APIs  
+**Database:** MySQL, PostgreSQL, MongoDB  
+**Cloud:** AWS (S3, Lambda, API Gateway, DynamoDB, EC2)  
+**Other Tools:** Git, GitHub, VS Code, Docker  
 
 ---
 
-## 📌 Current Focus
-- 🔹 Professionalizing my **Django e-commerce projects**  
-- 🔹 Building **React dashboards** with AI-powered monitoring  
-- 🔹 Learning **Advanced DSA & Theory of Computation** for interviews  
-- 🔹 Exploring **freelance opportunities** in e-commerce development  
+## 📊 GitHub Activity
+![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranayAletti&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranayAletti&layout=compact&theme=tokyonight)  
 
 ---
 
-## 📈 GitHub Stats
-![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranayaleti&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranayaleti&layout=compact&theme=tokyonight)
+## 🚀 Projects
+- 🌐 **Full-Stack Web Apps** using **React + Django**  
+- ☁️ **Cloud-based Applications** deployed on AWS  
+- 📊 **Data-Driven Dashboards** with Python and SQL  
 
 ---
 
-## 🌐 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
-- ✉️ Email: **your-email@gmail.com**  
+## 🌍 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 📧 Email: yourname@email.com  
 
 ---
 
-💡 *"Go Shop Smart, Shop Local."*  
+✨ *“Code. Learn. Build. Repeat.”*  
