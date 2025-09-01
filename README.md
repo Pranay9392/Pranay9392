@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently focused on React, Django, and AWS Cloud<br>🔭 Building projects in Web Development & Cloud Deployment<br>🎯 Interested in Full-Stack Development, Data Science, and Cloud Solutions<br>🤝 Open to internships, collaborations, and open-source contributions
+🎓 Final Year CSE Student at SR University <br>🌱 Currently focused on React, Django, and AWS Cloud<br>🔭 Building projects in Web Development & Cloud Deployment<br>🎯 Interested in Full-Stack Development, Data Science, and Cloud Solutions<br>🤝 Open to internships, collaborations, and open-source contributions
 
 
 ## 🌐 Socials:
